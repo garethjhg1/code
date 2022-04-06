@@ -11,3 +11,4 @@ CREATE TABLE countries
 (country_code varchar PRIMARY KEY,
 country varchar,
 continent varchar);
+/*GEOG655, Haogang Ji, April 5th, 2022. */
